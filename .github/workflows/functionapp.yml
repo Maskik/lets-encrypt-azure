@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: HeedbookOnPrem
+  ResourceGroup: WinServices
 jobs:
   build:
     runs-on: ubuntu-latest
